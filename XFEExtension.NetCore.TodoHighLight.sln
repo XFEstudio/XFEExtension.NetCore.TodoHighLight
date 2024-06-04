@@ -3,6 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.11.34929.205
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFEExtension.NetCore.TodoHighLight", "XFEExtension.NetCore.TodoHighLight\XFEExtension.NetCore.TodoHighLight.csproj", "{8321B4B8-8DCE-4FBB-AB30-C607AF237FE8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{13C9A94D-3294-4792-BB30-0B400E342432} = {13C9A94D-3294-4792-BB30-0B400E342432}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFEExtension.NetCore.TodoHighLight.Analyzer", "XFEExtension.NetCore.TodoHighLight.Analyzer\XFEExtension.NetCore.TodoHighLight.Analyzer.csproj", "{13C9A94D-3294-4792-BB30-0B400E342432}"
 EndProject
