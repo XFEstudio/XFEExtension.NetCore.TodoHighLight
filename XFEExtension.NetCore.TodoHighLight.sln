@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34929.205
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFEExtension.NetCore.TodoHighLight", "XFEExtension.NetCore.TodoHighLight\XFEExtension.NetCore.TodoHighLight.csproj", "{8321B4B8-8DCE-4FBB-AB30-C607AF237FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFEExtension.NetCore.TodoHighLight.Analyzer", "XFEExtension.NetCore.TodoHighLight.Analyzer\XFEExtension.NetCore.TodoHighLight.Analyzer.csproj", "{13C9A94D-3294-4792-BB30-0B400E342432}"
+EndProject
+Global
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397CFC0A-2F50-4922-B902-F170C1801A37}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C9A94D-3294-4792-BB30-0B400E342432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C9A94D-3294-4792-BB30-0B400E342432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C9A94D-3294-4792-BB30-0B400E342432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C9A94D-3294-4792-BB30-0B400E342432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8321B4B8-8DCE-4FBB-AB30-C607AF237FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8321B4B8-8DCE-4FBB-AB30-C607AF237FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8321B4B8-8DCE-4FBB-AB30-C607AF237FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8321B4B8-8DCE-4FBB-AB30-C607AF237FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
